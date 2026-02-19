@@ -144,3 +144,5 @@ Bot:   ✅ Nih hasilnya! [compressed_photo.jpg]
 **Mr. Elixir** — [@MrElixir1945](https://github.com/MrElixir1945)
 
 *Self-hosted on Proxmox VE Home Server*
+
+-Built with ❤️ and a bit of help from AI Gemini and Claude for logic optimization and debugging.
